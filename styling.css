@@ -1,0 +1,20 @@
+#p1 {
+    background-color: #7B9CB1;    
+}
+
+#m1 {
+    background-color: #D53C2B
+}
+
+#c1 {
+    background-color: #3D5265
+}
+
+#p1_message, #m1_message, #c1_message {
+    color: white;
+    text-shadow: none;
+}
+
+tl-timemarker-content-container:hover {
+    overflow: auto
+}
